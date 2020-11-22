@@ -1,3 +1,7 @@
 
 congfig:
   info: git dev config
+  name: xxx
+
+c2:
+  info: xcx
