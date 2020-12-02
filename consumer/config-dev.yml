@@ -3,7 +3,7 @@ server:
   port: 8882
 
 config:
-  info: git consumer dev config
+  info: git consumer dev config refresh
   name: xxx
 
 c2:
