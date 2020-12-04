@@ -3,7 +3,7 @@ server:
   port: 8882
 
 config:
-  info: git dev config, v2
+  info: git dev config, v3
   name: xxx
 
 c2:
